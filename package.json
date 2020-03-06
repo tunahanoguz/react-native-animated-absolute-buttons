@@ -1,0 +1,37 @@
+{
+  "name": "react-native-animated-absolute-buttons",
+  "version": "1.0.0",
+  "description": "Animated absolute buttons that you can position anywhere on the screen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunahanoguz/react-native-animated-absolute-buttons.git"
+  },
+  "keywords": [
+    "react",
+    "react native",
+    "react native component",
+    "react native button component",
+    "react native button",
+    "react native animation",
+    "react native animated button",
+    "react native absolute button"
+  ],
+  "author": "Tunahan Oğuz",
+  "license": "MIT",
+  "homepage": "https://github.com/tunahanoguz/react-native-animated-absolute-buttons#readme",
+  "peerDependencies": {
+    "react": ">=15.0.0",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.58.0"
+  }
+}
