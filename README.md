@@ -1,4 +1,4 @@
-# React Native Animated Absolute Buttons
+# react-native-animated-absolute-buttons
 Animated absolute buttons that you can position anywhere on the screen. Feel free to use.
 
 Example One             |  Example Two
@@ -19,8 +19,8 @@ npm install react-native-animated-absolute-buttons
 | buttonColor | Color of the main button. | string | 'indigo' | **NO** |
 | buttonShape | Shape of the main button. ('circular', 'rounded', 'square') | string | 'circular' | **NO** |
 | buttonContent | Content of the main button. | any (text, icon component etc.) | - | **YES** |
-| direction | The direction in which the buttons will open (top, bottom, left, right) | string | 'top' | **NO** |
-| position | Position of all buttons (top-left, top-right, bottom-left, bottom-right) | string | 'bottom-right' | **NO** |
+| direction | The direction in which the buttons will open ('top', 'bottom', 'left', 'right') | string | 'top' | **NO** |
+| position | Position of all buttons ('top-left', 'top-right', 'bottom-left', 'bottom-right') | string | 'bottom-right' | **NO** |
 | positionVerticalMargin | Vertical distance in the position of the buttons | number | 10 | **NO** |
 | positionHorizontalMargin | Horizontal distance in the position of the buttons | number | 10 | **NO** |
 | time | Time to open buttons (animation time) | number | 500 | **NO**  |
@@ -32,7 +32,7 @@ Props table for buttons array:
 | Prop | Description | Type | Default | Required |
 |---|---|---|---|---|
 | color  | Color of the button. | string | -  | **YES** |
-| content  | Content of the button. | any | - | **YES** |
+| content  | Content of the button. | any (text, icon component etc.) | - | **YES** |
 | action  | Function of the button. | function | -  | **YES** |
 
 ### Usage
