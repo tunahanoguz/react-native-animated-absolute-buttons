@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26154721-c3e7-4ded-8529-b94eace40e2c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AwesomeProject" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -53,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583484606758</updated>
-      <workItem from="1583484608136" duration="14185000" />
+      <workItem from="1583484608136" duration="15560000" />
     </task>
     <servers />
   </component>
@@ -65,9 +65,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="934" y="324" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583491072790" />
-    <state x="1060" y="276" key="FileChooserDialogImpl" timestamp="1583492949879">
+    <state x="1060" y="276" key="FileChooserDialogImpl" timestamp="1583525845507">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1060" y="276" key="FileChooserDialogImpl/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583492949879" />
+    <state x="1060" y="276" key="FileChooserDialogImpl/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583525845507" />
   </component>
 </project>
